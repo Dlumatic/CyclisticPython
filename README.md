@@ -1,8 +1,6 @@
 # CyclisticPython
-Notebook from Kaggle
 
-
-Dataset provided by Kaggle.
+Notebook and Dataset derived from Kaggle.
 
 This  Capstone project is part of the Google Data Analytics Certification offered through Coursera.  Upon completion of the project,  the certifcate is granted to the recipient who finished the course.  
 
