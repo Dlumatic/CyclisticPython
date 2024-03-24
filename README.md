@@ -16,4 +16,3 @@ Data Visualizations are included in this ReadMe incase they don't load properly 
 <img width="826" alt="RideLengthsMonthly" src="https://user-images.githubusercontent.com/32453485/229639457-7e9d0b3e-049b-4ba8-8992-f1f725db7a6e.png">
 <img width="817" alt="Ridersin24Hrs" src="https://user-images.githubusercontent.com/32453485/229639461-217b5c93-de3d-4c32-863f-d3f6bbc5e326.png">
 <img width="832" alt="RidersPerMonth" src="https://user-images.githubusercontent.com/32453485/229639463-507e28b9-034a-467e-b222-4c8d67eba387.png">
-![lR8j6n2yug](https://github.com/Dlumatic/CyclisticPython/assets/32453485/82353f9a-92c8-4938-b14c-1a371a760850)
