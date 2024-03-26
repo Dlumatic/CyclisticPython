@@ -6,7 +6,27 @@ This  Capstone project is part of the Google Data Analytics Certification offere
 
 The project consist of an exploratory analysis of the fictional bike company Cyclistic.  It is a bike sharing company located in the metropolitan area of Chicago.   In this analysis,  we are cleaning and analyzing the data of bike users.  Trends are uncovered from the data, and from that strategic business insights and strategies can be derived to improve business operations and profit.  The project provides details for shareholders to make informed decisions.
 
+Business Task
+
+Analyze the company's historical bike data in order to identify trends between annual and casual riders that bring specific insights.
+
+Stakeholders
+
+Lily Moreno - Lead Director of marketing at Cyclistic
+Cyclistic Marketing Analytics team - crew of data analyst responsible for carrying out specific data centric tasks such as collecting, analyzing and reporting data in order to create Cyclistic's marketing strategy.
+Cyclistic Executive Team - Decision makers who hold authority of the team.
+
+
+Ask
+
+Three questions will guide the future marketing program: 
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
 Data Visualizations are included in this ReadMe incase they don't load properly within the Python notebook.
+
+
 
 <img width="825" alt="AvgRideLength" src="https://user-images.githubusercontent.com/32453485/229639444-7c86e121-93b1-46b7-a36e-1979fd883fc8.png">
 <img width="816" alt="AvgRideLengthWeekday" src="https://user-images.githubusercontent.com/32453485/229639448-3d489001-dfaa-422b-8479-6cd42860a9bf.png">
