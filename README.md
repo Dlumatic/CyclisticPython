@@ -24,6 +24,15 @@ Three questions will guide the future marketing program:
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
+ACT
+
+
+Doubling down on casual riders on the weekend would create a great source of continued revenue. Increasing marketing campaigns and incentives to get more people to ride on weeekends would be a viable move for attracting more riders.
+
+Scaling more riders in with multiple ridership packages can be an attractive model. A second order effect of converting them to members would be a good pivot (incentivized cheaper rates for members).
+
+A gamification system of giving riders perks based on rider usage could be a new alluring model. Rewards such as free miles can be an attractive perk. Members can also spare or give miles to other family members or friends to use.
+
 Data Visualizations are included in this ReadMe incase they don't load properly within the Python notebook.
 
 
